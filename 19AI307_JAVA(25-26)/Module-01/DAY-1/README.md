@@ -28,8 +28,6 @@ Developed by: Pavithra P
 RegisterNumber:  212223110035
 */
 ```
-
-## Sourcecode.java:
 ```
 import java.util.*;
 public class Main{
