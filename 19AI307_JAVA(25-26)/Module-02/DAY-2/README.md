@@ -45,5 +45,6 @@ Scanner sc = new Scanner(System.in);
 ## OUTPUT:
 
 <img width="1154" height="333" alt="image" src="https://github.com/user-attachments/assets/1563b251-b30f-4bbf-b8a0-f496938a0162" />
+
 ## RESULT:
 The program successfully shows that primitive data types in Java are passed by value, so changes inside the method don’t affect the original variable.
