@@ -33,8 +33,6 @@ Developed by: Pavithra P
 RegisterNumber:  212223110035
 */
 ```
-
-## SOURCE CODE:
 ```
 
 import java.util.Scanner;
